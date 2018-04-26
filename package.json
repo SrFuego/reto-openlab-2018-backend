@@ -1,0 +1,19 @@
+{
+  "name": "openlab",
+  "version": "1.0.0",
+  "description": "Reto backend 2018 del Openlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrFuego/reto-openlab-2018-backend.git"
+  },
+  "author": "Manuel Jesús De la Cruz Sotelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrFuego/reto-openlab-2018-backend/issues"
+  },
+  "homepage": "https://github.com/SrFuego/reto-openlab-2018-backend#readme"
+}
